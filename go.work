@@ -1,6 +1,0 @@
-go 1.21.2
-
-use (
-	./api_gateway
-	./video_service
-)
